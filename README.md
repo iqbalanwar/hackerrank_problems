@@ -1,5 +1,5 @@
 # HackerRank Problems
-These are some of the problems I've completed on HackerRank. 
+These are some of the problems I've completed on HackerRank. </br>
 I'm currently doing the problems in the interview kit.
 
 ## Interview Kit Warm-up problems:
