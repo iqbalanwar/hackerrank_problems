@@ -14,3 +14,4 @@ I'm currently doing the problems in the interview kit.
 ## Extra Problems
 Note: These problems I found/heard, and decided to do. I don't have a link to the online resource from which I got these.
 1) <i>CountRepeats:</i> Given an array that may or may not contain repeated numbers, and can contain negative and positive numbers, print the number of repeats for each number.
+-- Both the brute force and hashmap solution can be found in the CountRepeats/src directory
