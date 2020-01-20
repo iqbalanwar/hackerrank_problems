@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class CountRepeats {
     public static void main(String[] args) {
     /*
       Given an array, count the number of repeats
